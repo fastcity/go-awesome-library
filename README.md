@@ -4,7 +4,7 @@
 
 # mod--proxy
   + [https://goproxy.io/](https://github.com/goproxyio/goproxy)
-  + [https://goproxy.cn] (https://github.com/goproxy/goproxy.cn)
+  + [https://goproxy.cn](https://github.com/goproxy/goproxy.cn)
   + [阿里](https://mirrors.aliyun.com/goproxy/)
 
 # kafka
