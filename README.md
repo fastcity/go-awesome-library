@@ -1,5 +1,10 @@
 
 
+# mod--proxy
+  + https://goproxy.io/  https://github.com/goproxyio/goproxy
+  + https://goproxy.cn https://github.com/goproxy/goproxy.cn
+  + 阿里 https://mirrors.aliyun.com/goproxy/
+
 # kafka
   + https://github.com/Shopify/sarama
   + https://github.com/confluentinc/confluent-kafka-go
