@@ -4,7 +4,7 @@
   + https://github.com/Shopify/sarama
   + https://github.com/confluentinc/confluent-kafka-go
   + https://github.com/lovoo/goka
-
+  + https://github.com/segmentio/kafka-go
 # 读取配置文件
   + https://github.com/spf13/viper
 
