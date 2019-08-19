@@ -28,14 +28,22 @@
 
 # cli
  + [cobra](https://github.com/spf13/cobra) go cli 命令的库
+ 
+# log
+ + [go-logging](https://github.com/op/go-logging) go 的日志库
+
 
 # json 
   + [json-iterator](https://github.com/json-iterator/go) 滴滴开发的go json库
   + [jsonparser](https://github.com/buger/jsonparser) 可以直接获取json某个值，不用先Unmarshal
   + [jingo](https://github.com/bet365/jingo) 序列化的库 （目前不支持反序列化）
 
-# mongo
+# db-tools
   + [mongo-driver](https://github.com/mongodb/mongo-go-driver) mongo官方库
+
+# IED
+ + [wide](https://github.com/b3log/wide) 一个开发go web的ide
+ + [liteide](https://github.com/visualfc/liteide) 
 
 # books
   + [the-way-to-go](https://github.com/fastcity/the-way-to-go_ZH_CN) the-way-to-go 中文版
