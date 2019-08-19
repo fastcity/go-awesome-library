@@ -32,6 +32,7 @@
 # log
  + [go-logging](https://github.com/op/go-logging) go 的日志库
  + [beego/logs](https://github.com/astaxie/beego/tree/master/logs) beego的日志库（支持日志自动分割）
+ + [zap](https://github.com/uber-go/zap) uber的日志库，支持扩展，可自己添加日志分割插件[lumberjack](https://github.com/natefinch/lumberjack)
 
 
 # http
