@@ -31,7 +31,11 @@
  
 # log
  + [go-logging](https://github.com/op/go-logging) go 的日志库
+ + [beego/logs](https://github.com/astaxie/beego/tree/master/logs) beego的日志库（支持日志自动分割）
 
+
+# http
++ [goreq](https://github.com/franela/goreq) 第三方http库
 
 # json 
   + [json-iterator](https://github.com/json-iterator/go) 滴滴开发的go json库
