@@ -1,7 +1,7 @@
 
 # awesome-go
- +  [awesome-go](https://github.com/fastcity/awesome-go)  收集go的各个流行的库
- +  [awesome-go-zh]https://github.com/chai2010/awesome-go-zh  光谷码农收集的go 库
+ +  [awesome-go](https://github.com/avelino/awesome-go)  收集go的各个流行的库
+ +  [awesome-go-zh](https://github.com/chai2010/awesome-go-zh)  光谷码农收集的go 库
 
 # 
 
@@ -57,6 +57,7 @@
 
 # books
   + [the-way-to-go](https://github.com/fastcity/the-way-to-go_ZH_CN) the-way-to-go 中文版
+  + [go 源码研究](https://github.com/changkun/go-under-the-hood)
 
 # other 
  + [go-linq](https://github.com/ahmetb/go-linq) go版本的linq
