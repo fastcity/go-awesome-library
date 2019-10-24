@@ -47,6 +47,7 @@
  + [gin](https://github.com/gin-gonic/gin) Gin 是一个 Go 语言编写的 web 框架！提供了一组类似 martini 的 API ，具有更好的性能（40 倍）。如果你需要高性能和高生产率，这个框架很适合你 ，不支持正则
  + [beego](https://github.com/astaxie/beego) beeGo 是一个开源的、高性能的 Go 语言 web 框架 支持正则
  + [echo](https://github.com/labstack/echo) 高性能、极简的 Go 语言 web 框架 支持正则
+ + [jsonrpc](github.com/ybbus/jsonrpc)
 
 # db-tools
   + [mongo-driver](https://github.com/mongodb/mongo-go-driver) mongo官方库
@@ -58,6 +59,8 @@
 # books
   + [the-way-to-go](https://github.com/fastcity/the-way-to-go_ZH_CN) the-way-to-go 中文版
   + [go 源码研究](https://github.com/changkun/go-under-the-hood)
+  + [go 语言圣经](https://github.com/golang-china/gopl-zh)
+  + [go 高级编程](https://github.com/chai2010/advanced-go-programming-book)
 
 # other 
  + [go-linq](https://github.com/ahmetb/go-linq) go版本的linq
