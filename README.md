@@ -70,3 +70,9 @@
  + [reading-go](https://github.com/developer-learning/reading-go) 一群都go 源码的爱好者
  + [BaiduPCS-Go](https://github.com/fastcity/BaiduPCS-Go) go 百度网盘
  + [hugo](https://github.com/gohugoio/hugo) 快速生成网页及css的go 项目
+
+ # go 讲解
+ + [golang-notes](https://github.com/cch123/golang-notes) 曹大对于go源码讲解
+
+ # go 协程持
+ + [ants](https://github.com/panjf2000/ants) go 协程池
