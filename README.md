@@ -70,6 +70,7 @@
  + [reading-go](https://github.com/developer-learning/reading-go) 一群都go 源码的爱好者
  + [BaiduPCS-Go](https://github.com/fastcity/BaiduPCS-Go) go 百度网盘
  + [hugo](https://github.com/gohugoio/hugo) 快速生成网页及css的go 项目
+ + [7days-golang](https://github.com/geektutu/7days-golang) 7天用Go从零实现一些简单的框架
 
  # go 讲解
  + [golang-notes](https://github.com/cch123/golang-notes) 曹大对于go源码讲解
