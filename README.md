@@ -65,6 +65,7 @@
 
 # other 
  + [go-linq](https://github.com/ahmetb/go-linq) go版本的linq
+ + [cron](https://github.com/robfig/cron)go 定时器
  + [gos](https://github.com/storyicon/gos) 替代go命令的工具，用法跟go 用法一样，以及一些封装
  + [learning-golang](https://github.com/yangwenmai/learning-golang) 收集的go的资源
  + [reading-go](https://github.com/developer-learning/reading-go) 一群都go 源码的爱好者
