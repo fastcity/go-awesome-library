@@ -78,3 +78,6 @@
 
  # go 协程持
  + [ants](https://github.com/panjf2000/ants) go 协程池
+
+ # 限流
+ + [ratelimit](https://github.com/uber-go/ratelimit) uber-go/ratelimit
