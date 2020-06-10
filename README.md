@@ -3,9 +3,6 @@
  +  [awesome-go](https://github.com/avelino/awesome-go)  收集go的各个流行的库
  +  [awesome-go-zh](https://github.com/chai2010/awesome-go-zh)  光谷码农收集的go 库
 
-# 
-
-
 # 多版本
  + [g](https://github.com/voidint/g) 一个跨平台的可以安装多版本go的工具
  + [gvm](https://github.com/moovweb/gvm) 可以安装多版本go的工具(目前不支持windows)
@@ -56,12 +53,17 @@
 # IED
  + [wide](https://github.com/b3log/wide) 一个开发go web的ide
  + [liteide](https://github.com/visualfc/liteide) 
+ + [goland](https://www.jetbrains.com/go/)
+ + [goland汉化](https://github.com/pingfangx/TranslatorX)
+ + [vscode](https://code.visualstudio.com/)
+ + [vscode-go扩展](https://github.com/golang/vscode-go) vscode-go 已经成为go 官方的子项目
 
 # books
   + [the-way-to-go](https://github.com/fastcity/the-way-to-go_ZH_CN) the-way-to-go 中文版
   + [go 源码研究](https://github.com/changkun/go-under-the-hood)
   + [go 语言圣经](https://github.com/golang-china/gopl-zh)
   + [go 高级编程](https://github.com/chai2010/advanced-go-programming-book)
+  + [Go语法树入门](https://github.com/chai2010/go-ast-book?utm_source=gold_browser_extension) 光谷码农、柴树杉 新书
 
 # other 
  + [go-linq](https://github.com/ahmetb/go-linq) go版本的linq
