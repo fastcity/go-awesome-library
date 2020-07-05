@@ -39,6 +39,8 @@
   + [json-iterator](https://github.com/json-iterator/go) 滴滴开发的go json库
   + [jsonparser](https://github.com/buger/jsonparser) 可以直接获取json某个值，不用先Unmarshal
   + [jingo](https://github.com/bet365/jingo) 序列化的库 （目前不支持反序列化）
+  + [gjson](https://github.com/tidwall/gjson) 跟 jsonparser 一样
+  + [easyjson](https://github.com/mailru/easyjson) 高性能json 库
 
 # web 框架
  + [gin](https://github.com/gin-gonic/gin) Gin 是一个 Go 语言编写的 web 框架！提供了一组类似 martini 的 API ，具有更好的性能（40 倍）。如果你需要高性能和高生产率，这个框架很适合你 ，不支持正则
@@ -65,6 +67,15 @@
   + [go 高级编程](https://github.com/chai2010/advanced-go-programming-book)
   + [Go语法树入门](https://github.com/chai2010/go-ast-book?utm_source=gold_browser_extension) 光谷码农、柴树杉 新书
 
+ # go 讲解
+ + [golang-notes](https://github.com/cch123/golang-notes) 曹大对于go源码讲解
+
+ # go 协程池
+ + [ants](https://github.com/panjf2000/ants) go 协程池
+
+ # 限流
+ + [ratelimit](https://github.com/uber-go/ratelimit) uber-go/ratelimit
+
 # other 
  + [go-linq](https://github.com/ahmetb/go-linq) go版本的linq
  + [cron](https://github.com/robfig/cron)go 定时器
@@ -74,12 +85,4 @@
  + [BaiduPCS-Go](https://github.com/fastcity/BaiduPCS-Go) go 百度网盘
  + [hugo](https://github.com/gohugoio/hugo) 快速生成网页及css的go 项目
  + [7days-golang](https://github.com/geektutu/7days-golang) 7天用Go从零实现一些简单的框架
-
- # go 讲解
- + [golang-notes](https://github.com/cch123/golang-notes) 曹大对于go源码讲解
-
- # go 协程持
- + [ants](https://github.com/panjf2000/ants) go 协程池
-
- # 限流
- + [ratelimit](https://github.com/uber-go/ratelimit) uber-go/ratelimit
+ + [go 周刊](https://github.com/polaris1119/golangweekly) go爱好者周刊
