@@ -52,6 +52,9 @@
 # db-tools
   + [mongo-driver](https://github.com/mongodb/mongo-go-driver) mongo官方库
 
+# 爬虫
+ + [colly](https://github.com/gocolly/colly) 高效的爬虫库
+
 # IED
  + [wide](https://github.com/b3log/wide) 一个开发go web的ide
  + [liteide](https://github.com/visualfc/liteide) 
