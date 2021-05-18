@@ -97,3 +97,5 @@
  + [go-admin](https://github.com/wenjianzhang/go-admin) 基于Gin + Vue + Element UI的前后端分离权限管理系统脚手架（包含了：基础用户管理功能，jwt鉴权，代码生成器，RBAC资源控制，表单构建等
  + [mock](https://github.com/golang/mock) 集成的测试工具
  + [go 设计模式](https://github.com/senghoo/golang-design-pattern)go 设计模式
+ + [go结构体框架](https://github.com/ent/ent?utm_source=gold_browser_extension) 快速生成配合数据库的结构体
+s
