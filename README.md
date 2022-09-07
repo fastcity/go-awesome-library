@@ -100,3 +100,4 @@
  + [go结构体框架](https://github.com/ent/ent?utm_source=gold_browser_extension) 快速生成配合数据库的结构体
  + [rxgo](https://github.com/ReactiveX/RxGo) rxgo
  + [pretty](https://github.com/tidwall/pretty) json格式化打印或者合成一行打印
+ + [cast](github.com/spf13/cast) 基本类型转换
