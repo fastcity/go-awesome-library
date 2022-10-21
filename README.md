@@ -19,6 +19,12 @@
   + [goka](https://github.com/lovoo/goka)
   + [kafka-go](https://github.com/segmentio/kafka-go)
 
+# redis
+  + [redis](https://github.com/go-redis/redis)
+# copy
+  + [copy](https://github.com/huandu/go-clone) 深拷贝，可以copy未露出的字段
+  + [copystructure](https://github.com/mitchellh/copystructure) 深拷贝，不可以copy未露出的字段
+  + [deepcopy](https://github.com/mohae/deepcopy)深拷贝，不可以copy未露出的字段
 
 # config
   + [viper](https://github.com/spf13/viper) 读取配置文件的库，支持各种格式
@@ -49,8 +55,9 @@
  + [jsonrpc](github.com/ybbus/jsonrpc)
  + [fasthttp](https://github.com/valyala/fasthttp)
 
-# db-tools
+# orm
   + [mongo-driver](https://github.com/mongodb/mongo-go-driver) mongo官方库
+  + [gorm](https://github.com/go-gorm/gorm) gorm 支持mysql、sqllite等
 
 # 爬虫
  + [colly](https://github.com/gocolly/colly) 高效的爬虫库
@@ -82,10 +89,16 @@
  # 缓存
  + [ristretto](https://github.com/dgraph-io/ristretto) 高效的缓存
  + [go-cache](https://github.com/patrickmn/go-cache) 高效的本地缓存
-
-# other 
+ 
+# 工具类
  + [go-linq](https://github.com/ahmetb/go-linq) go版本的linq
  + [cron](https://github.com/robfig/cron)go 定时器
+ + [rxgo](https://github.com/ReactiveX/RxGo) rxgo
+ + [pretty](https://github.com/tidwall/pretty) json格式化打印或者合成一行打印
+ + [cast](github.com/spf13/cast) 基本类型转换
+ + [mock](https://github.com/golang/mock) 集成的测试工具
+
+# other 
  + [gos](https://github.com/storyicon/gos) 替代go命令的工具，用法跟go 用法一样，以及一些封装
  + [learning-golang](https://github.com/yangwenmai/learning-golang) 收集的go的资源
  + [reading-go](https://github.com/developer-learning/reading-go) 一群都go 源码的爱好者
@@ -95,11 +108,7 @@
  + [go 周刊](https://github.com/polaris1119/golangweekly) go爱好者周刊
  + [gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin) 基于gin+vue搭建的后台管理系统框架 集成很多功能
  + [go-admin](https://github.com/wenjianzhang/go-admin) 基于Gin + Vue + Element UI的前后端分离权限管理系统脚手架（包含了：基础用户管理功能，jwt鉴权，代码生成器，RBAC资源控制，表单构建等
- + [mock](https://github.com/golang/mock) 集成的测试工具
  + [go 设计模式](https://github.com/senghoo/golang-design-pattern)go 设计模式
  + [go结构体框架](https://github.com/ent/ent?utm_source=gold_browser_extension) 快速生成配合数据库的结构体
- + [rxgo](https://github.com/ReactiveX/RxGo) rxgo
- + [pretty](https://github.com/tidwall/pretty) json格式化打印或者合成一行打印
- + [cast](github.com/spf13/cast) 基本类型转换
  + [assh](https://github.com/moul/assh) assh ,ssh 替代，功能强大
  + [go下载器](https://github.com/monkeyWie/gopeed-core) go 的shell下载器
