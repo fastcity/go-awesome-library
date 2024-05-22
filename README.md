@@ -100,6 +100,7 @@
  + [pretty](https://github.com/tidwall/pretty) json格式化打印或者合成一行打印
  + [cast](github.com/spf13/cast) 基本类型转换
  + [mock](https://github.com/golang/mock) 集成的测试工具
+ + [strcase](https://github.com/gobeam/stringy) 字符转化 snake 、camel等
 
 # other 
  + [gos](https://github.com/storyicon/gos) 替代go命令的工具，用法跟go 用法一样，以及一些封装
