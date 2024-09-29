@@ -94,7 +94,9 @@
  + [go-cache](https://github.com/patrickmn/go-cache) 高效的本地缓存
  
 # 工具类
- + [go-linq](https://github.com/ahmetb/go-linq) go版本的linq
+ + [go-linq](https://github.com/ahmetb/go-linq) go版本的linq go-linq,不支持泛型
+ + [go-funk](https://github.com/thoas/go-funk) go版本的linq ,不支持泛型
+ + [lo](https://github.com/samber/lo) go版本的linq ,支持泛型
  + [cron](https://github.com/robfig/cron)go 定时器
  + [rxgo](https://github.com/ReactiveX/RxGo) rxgo
  + [pretty](https://github.com/tidwall/pretty) json格式化打印或者合成一行打印
