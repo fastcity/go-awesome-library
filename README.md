@@ -61,6 +61,7 @@
 # orm
   + [mongo-driver](https://github.com/mongodb/mongo-go-driver) mongo官方库
   + [gorm](https://github.com/go-gorm/gorm) gorm 支持mysql、sqllite等
+  + [mongox](https://github.com/chenmingyong0423/go-mongox) 对于go的mongo结构的二次封装
 
 # 爬虫
  + [colly](https://github.com/gocolly/colly) 高效的爬虫库
